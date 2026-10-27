@@ -1,0 +1,12 @@
+{
+  "name": "Pulsin Network",
+  "short_name": "Pulsin",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#F8F4EC",
+  "theme_color": "#1F2CFF",
+  "icons": [
+    { "src": "/favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "/apple-touch-icon.png", "type": "image/png", "sizes": "180x180" }
+  ]
+}
